@@ -1,0 +1,3 @@
+.......THANKS FOR YOUR VISIT........
+This is some glimpse of my projects done at my virtual internship with Cognorise Pvt ltd.
+All the files carries python programs.
